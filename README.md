@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on exciting web and software projects.
 - 🌱 Constantly learning: Cloud, Modern JS Frameworks, DevOps.
 - 🤝 Open to collaborating on open-source, side hustles, and creative ideas!
-- 📬 Contact: [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) • Email: nithinvs488@gmail.com
+- 📬 Contact: [LinkedIn](www.linkedin.com/in/nithin-v-s32) • Email: nithinvs488@gmail.com
 
 ---
 
