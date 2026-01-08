@@ -29,11 +29,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nithinvs32&theme=radical" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nithinvs32&show_icons=true&theme=radical" alt="my stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinvs32&layout=compact&theme=radical" alt="languages"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nithinvs32&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinvs32&theme=radical&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinvs32&theme=radical&hide_border=true&show_icons=true)
+  
 
 ---
 
