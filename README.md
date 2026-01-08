@@ -29,11 +29,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nithinvs32&theme=radical&hide_border=true)
+**📊 GitHub Contribution Stats** | [View on GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) | [View on GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinvs32&theme=radical&hide_border=true&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinvs32&theme=radical&hide_border=true&show_icons=true)
+> **Note:** GitHub Stats images are optimized for dark mode viewing. The images display real-time contribution data, top languages, and commit streaks. [Learn more →](https://github.com/anuraghazra/github-readme-stats)
   
 
 ---
