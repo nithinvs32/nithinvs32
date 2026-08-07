@@ -1,29 +1,46 @@
-<!-- Profile Header Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1500&color=00DF9A&center=true&vCenter=true&width=450&height=45&lines=Hi%2C+I'm+Nithin+V.S.;Professional+Developer+%7C+Tech+Enthusiast;Building+cool+things+with+code+%F0%9F%92%BB;Always+learning+new+tech!" alt="Typing SVG" />
-</p>
-
-<!-- Animated Developer GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/Developer.gif" width="300"/>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on exciting web and software projects.
-- 🌱 Constantly learning: Cloud, Modern JS Frameworks, DevOps.
-- 🤝 Open to collaborating on open-source, side hustles, and creative ideas!
-- 📬 Contact: [LinkedIn](www.linkedin.com/in/nithin-v-s32) • Email: nithinvs488@gmail.com
+* 💼 Full-Stack Web Developer passionate about building scalable, responsive, and user-friendly web applications.
+* 🔭 Currently working on exciting web applications and software projects.
+* 🌱 Constantly learning **Cloud Computing, Spring Ecosystem, Modern JavaScript Frameworks, DevOps,** and **System Design**.
+* 🚀 Love transforming ideas into real-world solutions with clean, maintainable, and efficient code.
+* 🤝 Open to collaborating on **Open Source**, freelance work, startups, and innovative side projects.
+* 🌐 **Portfolio:** https://nithinvs.vercel.app/
+* 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/nithin-v-s32) • Email: [nithinvs488@gmail.com](mailto:nithinvs488@gmail.com)
 
 ---
 
 ### 💎 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,aws,linux,bash,git,docker" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,tailwind,docker,git,github,postman,vscode,vercel,aws&perline=10" />
 </p>
+
+#### **Languages**
+
+`Java` • `JavaScript` • `HTML5` • `CSS3` • `SQL`
+
+#### **Backend**
+
+`Spring Boot` • `Spring MVC` • `Spring Security` • `Hibernate` • `JPA` • `Node.js` • `Express.js`
+
+#### **Frontend**
+
+`React` • `Next.js` • `Tailwind CSS`
+
+#### **Databases**
+
+`MySQL` • `PostgreSQL` • `MongoDB`
+
+#### **Tools & Platforms**
+
+`Git` • `GitHub` • `Docker` • `Postman` • `VS Code` • `Vercel` • `Firebase`
+
+#### **Currently Exploring**
+
+`AWS` • `Cloud Computing` • `DevOps` • `CI/CD` • `Microservices`
 
 ---
 
@@ -31,19 +48,13 @@
 
 **📊 GitHub Contribution Stats** | [View on GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) | [View on GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
-> **Note:** GitHub Stats images are optimized for dark mode viewing. The images display real-time contribution data, top languages, and commit streaks. [Learn more →](https://github.com/anuraghazra/github-readme-stats)
-  
+> **Note:** GitHub Stats images are optimized for dark mode viewing. They display real-time contribution activity, commit streaks, repository insights, and most-used programming languages.
 
 ---
 
 ### ⚡ Fun Fact / Motto
 
-> "Code is like humor. When you have to explain it, it’s bad."  
-> — Cory House
+> *"Code is like humor. When you have to explain it, it's bad."*
+> **— Cory House**
 
 ---
-
-<!-- Footer Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
